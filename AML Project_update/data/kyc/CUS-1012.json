@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUS-1012",
+  "occupation": "Agricultural Trader",
+  "declared_monthly_income": 5500,
+  "account_age_months": 48,
+  "account_purpose": "Crop Sales",
+  "nationality": "IN",
+  "past_investigations": []
+}
