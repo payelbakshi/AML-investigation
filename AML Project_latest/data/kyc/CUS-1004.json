@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUS-1004",
+  "occupation": "Student",
+  "declared_monthly_income": 1200,
+  "account_age_months": 2,
+  "account_purpose": "Education Expenses",
+  "nationality": "IN",
+  "past_investigations": []
+}

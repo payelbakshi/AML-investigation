@@ -1,0 +1,11 @@
+{
+  "customer_id": "CUS-1006",
+  "occupation": "Import/Export Trader",
+  "declared_monthly_income": 9000,
+  "account_age_months": 42,
+  "account_purpose": "Trade Settlement",
+  "nationality": "IN",
+  "past_investigations": [
+    "Cleared on low-volume domestic invoice alert 3 months ago (Pattern changed: now exhibits large cross-border SWIFT transactions with Dubai/Hong Kong)"
+  ]
+}

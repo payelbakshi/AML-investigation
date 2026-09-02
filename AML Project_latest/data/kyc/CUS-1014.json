@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUS-1014",
+  "occupation": "IT Consultant",
+  "declared_monthly_income": 3500,
+  "account_age_months": 5,
+  "account_purpose": "Consulting Retainers",
+  "nationality": "IN",
+  "past_investigations": []
+}

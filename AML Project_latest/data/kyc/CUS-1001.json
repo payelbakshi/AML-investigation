@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUS-1001",
+  "occupation": "Freelance Consultant",
+  "declared_monthly_income": 4500,
+  "account_age_months": 14,
+  "account_purpose": "Business Operations",
+  "nationality": "IN",
+  "past_investigations": []
+}

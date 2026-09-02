@@ -1,0 +1,11 @@
+{
+  "customer_id": "CUS-1010",
+  "occupation": "Day Trader",
+  "declared_monthly_income": 4000,
+  "account_age_months": 6,
+  "account_purpose": "Trading",
+  "nationality": "IN",
+  "past_investigations": [
+    "Escalated Jan 2026 - under review"
+  ]
+}

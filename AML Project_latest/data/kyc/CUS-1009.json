@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUS-1009",
+  "occupation": "Nurse",
+  "declared_monthly_income": 3500,
+  "account_age_months": 30,
+  "account_purpose": "Household Expenses",
+  "nationality": "IN",
+  "past_investigations": []
+}
