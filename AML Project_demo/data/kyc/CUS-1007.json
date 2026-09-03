@@ -1,0 +1,9 @@
+{
+  "customer_id": "CUS-1007",
+  "occupation": "Software Engineer",
+  "declared_monthly_income": 5200,
+  "account_age_months": 24,
+  "account_purpose": "Salary & Investments",
+  "nationality": "IN",
+  "past_investigations": []
+}
